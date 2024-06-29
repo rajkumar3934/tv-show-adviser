@@ -2,7 +2,7 @@
 
 Watowatch is a movie and TV series recommendation app built with React. It provides users with a personalized list of recommended shows based on their interests.
 
-![Watowatch Screenshot](path/to/screenshot.png)
+![image](https://github.com/rajkumar3934/tv-show-adviser/assets/27536166/038388f4-f151-4c04-b772-ee705a5142be)
 
 ## Features
 
@@ -18,6 +18,7 @@ Make sure you have the following installed on your local machine:
 
 - [Node.js](https://nodejs.org/en/) (v14.x or later)
 - [npm](https://www.npmjs.com/) (v6.x or later) or [yarn](https://yarnpkg.com/)
+- [React.js]
 
 ### Installation
 
@@ -31,7 +32,11 @@ Make sure you have the following installed on your local machine:
 2. Install the dependencies:
 
 ```sh
-git clone https://github.com/yourusername/watowatch.git
-cd watowatch
+npm install
+```
 
+3. Running the Application
+
+```sh
+npm start
 ```
