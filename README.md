@@ -2,7 +2,8 @@
 
 Watowatch is a movie and TV series recommendation app built with React. It provides users with a personalized list of recommended shows based on their interests.
 
-![image](https://github.com/rajkumar3934/tv-show-adviser/assets/27536166/038388f4-f151-4c04-b772-ee705a5142be)
+![image](https://github.com/rajkumar3934/tv-show-adviser/assets/27536166/50df25eb-ac5e-4778-96a9-04deace486bd)
+
 
 ## Features
 
